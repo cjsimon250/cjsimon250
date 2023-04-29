@@ -3,7 +3,7 @@
 
 - I’m currently working on a client project at Prime Digital Academy.
 
-- I’m currently learning **JavaScript and React.**
+- I’m currently learning **TypeScript.**
 
 - How to reach me **cjsimon615@gmail.com**
 
