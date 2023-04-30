@@ -9,7 +9,7 @@
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cj-simon1379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CJ-Simon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/-cj-simon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CJ-Simon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
