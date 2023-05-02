@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm CJ</h1>
 <h3 align="center">I am a natural problem solver with a passion for finding software solutions to real world problems</h3>
 
-- I’m currently working on a mock interview app using OpenAI's API.
+- I’m currently working on a mock interview app using OpenAI's API and TypeScript.
 
 - I’m currently learning **TypeScript.**
 
